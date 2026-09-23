@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="src/Network.Rcon/Network.Rcon.csproj" />
+  <Project Path="src/Network.Query/Network.Query.csproj" />
+  <Project Path="src/Network.Raknet/Network.Raknet.csproj" />
+  <Project Path="tests/Network.Query.Test/Network.Query.Test.csproj" />
+  <Project Path="tests/Network.Raknet.Test/Network.Raknet.Test.csproj" />
+  <Project Path="tests/Network.Rcon.Test/Network.Rcon.Test.csproj" />
+</Solution>
