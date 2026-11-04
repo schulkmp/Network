@@ -18,4 +18,8 @@
         <Using Include="Xunit"/>
     </ItemGroup>
 
+    <ItemGroup>
+        <ProjectReference Include="..\..\src\Network.Raknet\Network.Raknet.csproj" />
+    </ItemGroup>
+
 </Project>
